@@ -1,6 +1,6 @@
 # Chat-en-L-nea-API-ASP.NET-Core-
 Este repositorio contiene una aplicación de chat en línea desarrollada con ASP.NET Core, que incluye tanto el frontend como la API. Ambos están configurados para funcionar localmente con una base de datos SQL Server.
-🔧 Tecnologías utilizadas
+ Tecnologías utilizadas
 
     ASP.NET Core (Web API y frontend)
 
@@ -10,7 +10,7 @@ Este repositorio contiene una aplicación de chat en línea desarrollada con ASP
 
     Bootstrap y CSS personalizado
 
-🎯 Funcionalidades
+Funcionalidades
 
     Registro e inicio de sesión de usuarios
 
@@ -22,7 +22,7 @@ Este repositorio contiene una aplicación de chat en línea desarrollada con ASP
 
     Separación clara entre API y frontend
 
-🚀 Ejecución local
+ Ejecución local
 
     Clona el repositorio.
 
