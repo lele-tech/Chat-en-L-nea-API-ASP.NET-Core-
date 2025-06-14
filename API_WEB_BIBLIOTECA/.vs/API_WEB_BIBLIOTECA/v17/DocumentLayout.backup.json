@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibarr\\Downloads\\Investigaci\u00F3n\\Investigaci\u00F3n\\seguridadinvestigacion\\API_WEB_BIBLIOTECA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38CB0FC6-5249-4E25-AE6E-C5DC11D0243D}|API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA.csproj|c:\\users\\ibarr\\downloads\\investigaci\u00F3n\\investigaci\u00F3n\\seguridadinvestigacion\\api_web_biblioteca\\api_web_biblioteca\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CB0FC6-5249-4E25-AE6E-C5DC11D0243D}|API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA.csproj|solutionrelative:api_web_biblioteca\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CB0FC6-5249-4E25-AE6E-C5DC11D0243D}|API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA.csproj|c:\\users\\ibarr\\downloads\\investigaci\u00F3n\\investigaci\u00F3n\\seguridadinvestigacion\\api_web_biblioteca\\api_web_biblioteca\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CB0FC6-5249-4E25-AE6E-C5DC11D0243D}|API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA.csproj|solutionrelative:api_web_biblioteca\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CB0FC6-5249-4E25-AE6E-C5DC11D0243D}|API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA.csproj|c:\\users\\ibarr\\downloads\\investigaci\u00F3n\\investigaci\u00F3n\\seguridadinvestigacion\\api_web_biblioteca\\api_web_biblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38CB0FC6-5249-4E25-AE6E-C5DC11D0243D}|API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA.csproj|solutionrelative:api_web_biblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CB0FC6-5249-4E25-AE6E-C5DC11D0243D}|API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA.csproj|c:\\users\\ibarr\\downloads\\investigaci\u00F3n\\investigaci\u00F3n\\seguridadinvestigacion\\api_web_biblioteca\\api_web_biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CB0FC6-5249-4E25-AE6E-C5DC11D0243D}|API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA.csproj|solutionrelative:api_web_biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CB0FC6-5249-4E25-AE6E-C5DC11D0243D}|API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA.csproj|c:\\users\\ibarr\\downloads\\investigaci\u00F3n\\investigaci\u00F3n\\seguridadinvestigacion\\api_web_biblioteca\\api_web_biblioteca\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CB0FC6-5249-4E25-AE6E-C5DC11D0243D}|API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA.csproj|solutionrelative:api_web_biblioteca\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CB0FC6-5249-4E25-AE6E-C5DC11D0243D}|API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA.csproj|c:\\users\\ibarr\\downloads\\investigaci\u00F3n\\investigaci\u00F3n\\seguridadinvestigacion\\api_web_biblioteca\\api_web_biblioteca\\data\\dbcontextbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CB0FC6-5249-4E25-AE6E-C5DC11D0243D}|API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA.csproj|solutionrelative:api_web_biblioteca\\data\\dbcontextbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CB0FC6-5249-4E25-AE6E-C5DC11D0243D}|API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA.csproj|c:\\users\\ibarr\\downloads\\investigaci\u00F3n\\investigaci\u00F3n\\seguridadinvestigacion\\api_web_biblioteca\\api_web_biblioteca\\services\\iautorizacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CB0FC6-5249-4E25-AE6E-C5DC11D0243D}|API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA.csproj|solutionrelative:api_web_biblioteca\\services\\iautorizacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CB0FC6-5249-4E25-AE6E-C5DC11D0243D}|API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA.csproj|c:\\users\\ibarr\\downloads\\investigaci\u00F3n\\investigaci\u00F3n\\seguridadinvestigacion\\api_web_biblioteca\\api_web_biblioteca\\services\\autorizacionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CB0FC6-5249-4E25-AE6E-C5DC11D0243D}|API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA.csproj|solutionrelative:api_web_biblioteca\\services\\autorizacionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CB0FC6-5249-4E25-AE6E-C5DC11D0243D}|API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA.csproj|c:\\users\\ibarr\\downloads\\investigaci\u00F3n\\investigaci\u00F3n\\seguridadinvestigacion\\api_web_biblioteca\\api_web_biblioteca\\models\\custom\\autorizacionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CB0FC6-5249-4E25-AE6E-C5DC11D0243D}|API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA.csproj|solutionrelative:api_web_biblioteca\\models\\custom\\autorizacionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CB0FC6-5249-4E25-AE6E-C5DC11D0243D}|API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA.csproj|c:\\users\\ibarr\\downloads\\investigaci\u00F3n\\investigaci\u00F3n\\seguridadinvestigacion\\api_web_biblioteca\\api_web_biblioteca\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CB0FC6-5249-4E25-AE6E-C5DC11D0243D}|API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA.csproj|solutionrelative:api_web_biblioteca\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CB0FC6-5249-4E25-AE6E-C5DC11D0243D}|API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA.csproj|c:\\users\\ibarr\\downloads\\investigaci\u00F3n\\investigaci\u00F3n\\seguridadinvestigacion\\api_web_biblioteca\\api_web_biblioteca\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CB0FC6-5249-4E25-AE6E-C5DC11D0243D}|API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA.csproj|solutionrelative:api_web_biblioteca\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CB0FC6-5249-4E25-AE6E-C5DC11D0243D}|API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA.csproj|c:\\users\\ibarr\\downloads\\investigaci\u00F3n\\investigaci\u00F3n\\seguridadinvestigacion\\api_web_biblioteca\\api_web_biblioteca\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CB0FC6-5249-4E25-AE6E-C5DC11D0243D}|API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA.csproj|solutionrelative:api_web_biblioteca\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutorizacionResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ibarr\\Downloads\\Investigaci\u00F3n\\Investigaci\u00F3n\\seguridadinvestigacion\\API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA\\Models\\Custom\\AutorizacionResponse.cs",
+              "RelativeDocumentMoniker": "API_WEB_BIBLIOTECA\\Models\\Custom\\AutorizacionResponse.cs",
+              "ToolTip": "C:\\Users\\ibarr\\Downloads\\Investigaci\u00F3n\\Investigaci\u00F3n\\seguridadinvestigacion\\API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA\\Models\\Custom\\AutorizacionResponse.cs",
+              "RelativeToolTip": "API_WEB_BIBLIOTECA\\Models\\Custom\\AutorizacionResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:31:14.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbContextBiblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\ibarr\\Downloads\\Investigaci\u00F3n\\Investigaci\u00F3n\\seguridadinvestigacion\\API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA\\Data\\DbContextBiblioteca.cs",
+              "RelativeDocumentMoniker": "API_WEB_BIBLIOTECA\\Data\\DbContextBiblioteca.cs",
+              "ToolTip": "C:\\Users\\ibarr\\Downloads\\Investigaci\u00F3n\\Investigaci\u00F3n\\seguridadinvestigacion\\API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA\\Data\\DbContextBiblioteca.cs",
+              "RelativeToolTip": "API_WEB_BIBLIOTECA\\Data\\DbContextBiblioteca.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T04:00:13.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibarr\\Downloads\\Investigaci\u00F3n\\Investigaci\u00F3n\\seguridadinvestigacion\\API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA\\Program.cs",
+              "RelativeDocumentMoniker": "API_WEB_BIBLIOTECA\\Program.cs",
+              "ToolTip": "C:\\Users\\ibarr\\Downloads\\Investigaci\u00F3n\\Investigaci\u00F3n\\seguridadinvestigacion\\API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA\\Program.cs",
+              "RelativeToolTip": "API_WEB_BIBLIOTECA\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:48:06.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\ibarr\\Downloads\\Investigaci\u00F3n\\Investigaci\u00F3n\\seguridadinvestigacion\\API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "API_WEB_BIBLIOTECA\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\ibarr\\Downloads\\Investigaci\u00F3n\\Investigaci\u00F3n\\seguridadinvestigacion\\API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA\\Models\\Message.cs",
+              "RelativeToolTip": "API_WEB_BIBLIOTECA\\Models\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T02:51:08.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ibarr\\Downloads\\Investigaci\u00F3n\\Investigaci\u00F3n\\seguridadinvestigacion\\API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA\\appsettings.json",
+              "RelativeDocumentMoniker": "API_WEB_BIBLIOTECA\\appsettings.json",
+              "ToolTip": "C:\\Users\\ibarr\\Downloads\\Investigaci\u00F3n\\Investigaci\u00F3n\\seguridadinvestigacion\\API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA\\appsettings.json",
+              "RelativeToolTip": "API_WEB_BIBLIOTECA\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-31T14:15:06.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AutorizacionServices.cs",
+              "DocumentMoniker": "C:\\Users\\ibarr\\Downloads\\Investigaci\u00F3n\\Investigaci\u00F3n\\seguridadinvestigacion\\API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA\\Services\\AutorizacionServices.cs",
+              "RelativeDocumentMoniker": "API_WEB_BIBLIOTECA\\Services\\AutorizacionServices.cs",
+              "ToolTip": "C:\\Users\\ibarr\\Downloads\\Investigaci\u00F3n\\Investigaci\u00F3n\\seguridadinvestigacion\\API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA\\Services\\AutorizacionServices.cs",
+              "RelativeToolTip": "API_WEB_BIBLIOTECA\\Services\\AutorizacionServices.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAgwGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:30:15.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\ibarr\\Downloads\\Investigaci\u00F3n\\Investigaci\u00F3n\\seguridadinvestigacion\\API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "API_WEB_BIBLIOTECA\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\ibarr\\Downloads\\Investigaci\u00F3n\\Investigaci\u00F3n\\seguridadinvestigacion\\API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "API_WEB_BIBLIOTECA\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAjwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:02:43.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAutorizacionService.cs",
+              "DocumentMoniker": "C:\\Users\\ibarr\\Downloads\\Investigaci\u00F3n\\Investigaci\u00F3n\\seguridadinvestigacion\\API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA\\Services\\IAutorizacionService.cs",
+              "RelativeDocumentMoniker": "API_WEB_BIBLIOTECA\\Services\\IAutorizacionService.cs",
+              "ToolTip": "C:\\Users\\ibarr\\Downloads\\Investigaci\u00F3n\\Investigaci\u00F3n\\seguridadinvestigacion\\API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA\\Services\\IAutorizacionService.cs",
+              "RelativeToolTip": "API_WEB_BIBLIOTECA\\Services\\IAutorizacionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:29:50.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\ibarr\\Downloads\\Investigaci\u00F3n\\Investigaci\u00F3n\\seguridadinvestigacion\\API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "API_WEB_BIBLIOTECA\\Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\ibarr\\Downloads\\Investigaci\u00F3n\\Investigaci\u00F3n\\seguridadinvestigacion\\API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "API_WEB_BIBLIOTECA\\Controllers\\MessageController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAWwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T02:52:58.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ibarr\\Downloads\\Investigaci\u00F3n\\Investigaci\u00F3n\\seguridadinvestigacion\\API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "API_WEB_BIBLIOTECA\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ibarr\\Downloads\\Investigaci\u00F3n\\Investigaci\u00F3n\\seguridadinvestigacion\\API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "API_WEB_BIBLIOTECA\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T02:03:15.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\ibarr\\Downloads\\Investigaci\u00F3n\\Investigaci\u00F3n\\seguridadinvestigacion\\API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "API_WEB_BIBLIOTECA\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\ibarr\\Downloads\\Investigaci\u00F3n\\Investigaci\u00F3n\\seguridadinvestigacion\\API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA\\Models\\Usuario.cs",
+              "RelativeToolTip": "API_WEB_BIBLIOTECA\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:14:53.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\ibarr\\Downloads\\Investigaci\u00F3n\\Investigaci\u00F3n\\seguridadinvestigacion\\API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "API_WEB_BIBLIOTECA\\Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\ibarr\\Downloads\\Investigaci\u00F3n\\Investigaci\u00F3n\\seguridadinvestigacion\\API_WEB_BIBLIOTECA\\API_WEB_BIBLIOTECA\\Models\\Libro.cs",
+              "RelativeToolTip": "API_WEB_BIBLIOTECA\\Models\\Libro.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T04:00:19.373Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

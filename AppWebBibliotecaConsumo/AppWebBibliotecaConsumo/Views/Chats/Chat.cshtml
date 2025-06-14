@@ -1,0 +1,207 @@
+﻿@{
+    ViewData["Title"] = "Chat en Línea";
+    var userName = User.Identity.IsAuthenticated ? User.Identity.Name : "Invitado"; // Obtiene el nombre del usuario autenticado
+}
+
+<h2>Chat en Línea</h2>
+
+<!-- Muestra el nombre del usuario -->
+<div id="userInfo" class="mb-4 text-center">
+    <p>Bienvenido, <strong>@userName</strong></p>
+</div>
+
+<div id="groupSelection">
+    <h3>Selecciona un grupo para unirte</h3>
+    <div id="groupCards" class="flex flex-wrap gap-4 justify-center">
+        <!-- Tarjetas de grupos -->
+        <div class="group-card" data-group="Grupo1">
+            <div class="card border border-gray-300 rounded-lg shadow-lg overflow-hidden p-4">
+                <h4 class="text-xl font-semibold mb-2">Grupo 1</h4>
+                <p class="text-sm mb-4">Descripción del grupo 1.</p>
+                <button class="join-group-button bg-green-500 text-white px-4 py-2 rounded-lg hover:bg-green-600 transition">
+                    Unirse
+                </button>
+            </div>
+        </div>
+        <div class="group-card" data-group="Grupo2">
+            <div class="card border border-gray-300 rounded-lg shadow-lg overflow-hidden p-4">
+                <h4 class="text-xl font-semibold mb-2">Grupo 2</h4>
+                <p class="text-sm mb-4">Descripción del grupo 2.</p>
+                <button class="join-group-button bg-green-500 text-white px-4 py-2 rounded-lg hover:bg-green-600 transition">
+                    Unirse
+                </button>
+            </div>
+        </div>
+        <div class="group-card" data-group="Grupo3">
+            <div class="card border border-gray-300 rounded-lg shadow-lg overflow-hidden p-4">
+                <h4 class="text-xl font-semibold mb-2">Grupo 3</h4>
+                <p class="text-sm mb-4">Descripción del grupo 3.</p>
+                <button class="join-group-button bg-green-500 text-white px-4 py-2 rounded-lg hover:bg-green-600 transition">
+                    Unirse
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="chatSection" style="display: none;">
+    <h3>Grupo: <span id="groupNameDisplay"></span></h3>
+    <ul id="messagesList">
+        <!-- Los mensajes serán cargados dinámicamente aquí -->
+    </ul>
+    <div>
+        <input type="text" id="messageInput" placeholder="Escribe un mensaje..." class="border border-gray-300 rounded-lg p-2 w-full mt-2" />
+        <button id="sendButton" class="btn btn-primary text-white py-2 rounded-lg mt-2 w-full" disabled>Enviar</button>
+    </div>
+    <!-- Botón para salir del grupo -->
+    <button id="leaveGroupButton" class="btn btn-danger text-white py-2 rounded-lg mt-4 w-full hidden">
+        Salir del grupo
+    </button>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/5.0.9/signalr.min.js"></script>
+<script>
+    const userName = "@userName"; // Nombre de usuario desde Razor
+    const connection = new signalR.HubConnectionBuilder().withUrl("/chathub").build();
+    let currentGroup = "";
+
+    // Recibir mensajes del servidor y mostrarlos en la lista
+    connection.on("ReceiveMessage", (user, message, time) => {
+        const msg = document.createElement("li");
+
+        // Convertir 'time' a un objeto Date para formatear la hora
+        const messageTime = new Date(time);
+        const hours = messageTime.getHours().toString().padStart(2, '0'); // Obtener la hora (00-23)
+        const minutes = messageTime.getMinutes().toString().padStart(2, '0'); // Obtener los minutos (00-59)
+        const timeFormatted = `${hours}:${minutes}`; // Formato de hora: HH:mm
+
+        // Crear el contenido del mensaje con la hora formateada
+        msg.innerHTML = `${user}: ${message} <span class="text-gray-500 text-sm"> - ${timeFormatted}</span>`;
+
+        document.getElementById("messagesList").appendChild(msg);
+    });
+
+    // Función para cargar los mensajes desde el servidor
+    function loadMessages(groupName) {
+        const url = `@Url.Action("LoadMessages", "Chats")?grupo=${groupName}`;
+
+        fetch(url)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error("Error en la respuesta de la red");
+                }
+                return response.json();
+            })
+            .then(messages => {
+                const messagesList = document.getElementById("messagesList");
+                messagesList.innerHTML = ""; // Limpiar la lista de mensajes
+
+                messages.forEach(message => {
+                    // Obtener la hora del mensaje
+                    const messageTime = new Date(message.timeSent);
+                    const hours = messageTime.getHours().toString().padStart(2, '0');
+                    const minutes = messageTime.getMinutes().toString().padStart(2, '0');
+                    const timeFormatted = `${hours}:${minutes}`; // Formato de hora: HH:mm
+
+                    // Crear el mensaje con solo la hora
+                    const msg = document.createElement("li");
+                    msg.innerHTML = `${message.userName}: ${message.mensaje} <span class="text-gray-500 text-sm"> - ${timeFormatted}</span>`;
+                    messagesList.appendChild(msg);
+                });
+            })
+            .catch(error => {
+                console.error("Error al cargar los mensajes:", error);
+            });
+    }
+
+    // Unirse a un grupo
+    document.querySelectorAll(".join-group-button").forEach(button => {
+        button.addEventListener("click", function () {
+            const groupName = this.closest(".group-card").getAttribute("data-group");
+
+            if (groupName) {
+                document.getElementById("messagesList").innerHTML = "";
+                if (currentGroup) {
+                    connection.invoke("LeaveGroup", currentGroup).catch(err => console.error(err.toString()));
+                }
+                connection.invoke("JoinGroup", groupName).then(() => {
+                    currentGroup = groupName;
+                    document.getElementById("groupNameDisplay").textContent = groupName;
+                    document.getElementById("groupSelection").style.display = "none";
+                    document.getElementById("chatSection").style.display = "block";
+                    document.getElementById("sendButton").disabled = false;
+                    document.getElementById("leaveGroupButton").style.display = "block";
+                    loadMessages(groupName);
+                    alert(`Te has unido al grupo: ${groupName}`);
+                }).catch(err => console.error(err.toString()));
+            }
+        });
+    });
+
+    // Enviar mensaje
+    document.getElementById("sendButton").addEventListener("click", function () {
+        const messageInput = document.getElementById("messageInput");
+        const messageText = messageInput.value;
+
+        if (currentGroup && messageText) {
+            const currentTime = new Date().toISOString(); // Formato ISO
+            const message = {
+                groupName: currentGroup,
+                userName: userName,
+                mensaje: messageText,
+                timeSent: currentTime
+            };
+
+            fetch('/Chats/Create', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(message)
+            })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+                        console.log("Mensaje enviado exitosamente.");
+                        // Enviar mensaje al grupo en SignalR
+                        connection.invoke("SendMessageToGroup", currentGroup, userName, messageText, currentTime).catch(err => console.error(err.toString()));
+                        messageInput.value = ""; // Limpiar el campo de entrada
+                    } else {
+                        console.error("Error al enviar mensaje:", data.message);
+                    }
+                })
+                .catch(error => console.error("Error en la creación del mensaje:", error));
+        } else {
+            alert("Por favor, únete a un grupo antes de enviar un mensaje.");
+        }
+    });
+
+    // Salir del grupo
+    document.getElementById("leaveGroupButton").addEventListener("click", function () {
+        if (currentGroup) {
+            connection.invoke("LeaveGroup", currentGroup).then(() => {
+                alert(`Has salido del grupo: ${currentGroup}`);
+                document.getElementById("groupSelection").style.display = "block";
+                document.getElementById("chatSection").style.display = "none";
+                document.getElementById("leaveGroupButton").style.display = "none";
+            }).catch(err => console.error(err.toString()));
+        }
+    });
+
+    // Conectar al hub
+    connection.start().catch(err => console.error(err.toString()));
+</script>
+
+<style>
+    /* Estilos para las tarjetas de los grupos */
+    #groupCards {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+        justify-content: center;
+    }
+
+    .group-card {
+        width: 220px;
+    }
+</style>

@@ -1,0 +1,79 @@
+﻿@*Se indica el objeto modelo que maneja el front.end*@
+@model AppWebBibliotecaConsumo.Models.Usuario
+
+
+@{
+    ViewData["Title"] = "CrearCuenta";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<div class="container">
+
+    <div class="row">
+        <div class="col-md-4">
+        </div>
+
+        <div class="col-md-4">
+            <form asp-action="CrearCuenta" id="FormularioLogin">
+                <h2>Crear Cuenta</h2>
+
+                @*Mensaje de errores*@
+                @if (TempData["Error"] != null)
+                {
+                    <div class="alert alert-warning" role="alert">
+                        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="close"></button>
+                        <strong>@TempData["Error"]</strong>
+                    </div>
+                }
+
+                @*Solicitamos el email*@
+                <div class="form-group">
+                    <label asp-for="Email" class="form-label"></label>
+                    <input asp-for="Email" class="form-control" placeholder="jorge@domain.com" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+
+                @*Solicitamos el nombre completo*@
+                <div class="form-group">
+                    <label asp-for="NombreCompleto" class="form-label"></label>
+                    <input asp-for="NombreCompleto" class="form-control" />
+                    <span asp-validation-for="NombreCompleto" class="text-danger"></span>
+                </div>
+
+
+
+
+                @*Solicitud de password*@
+                <div class="form-group">
+                    <label asp-for="Password" class="form-label"></label>
+                    <input asp-for="Password" class="form-control" />
+                </div>
+
+
+                @*Solicitud la confirmación*@
+                <div class="form-group">
+                    <label>confirmar </label>
+                    <input name="confirmar" class="form-control" type="password" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+
+
+
+
+                @*Botón que ejecuta el post del formulario*@
+                <div class="form-group">
+                    <input type="submit" value="Aceptar" class="btn btn-primary mt-3" />
+                </div>
+
+            </form>
+        </div>
+
+        <div class="col-md-4">
+        </div>
+    </div>
+
+</div>
+
+

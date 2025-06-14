@@ -1,0 +1,154 @@
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\appsettings.Development.json
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\appsettings.json
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\API_WEB_BIBLIOTECA.exe
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\API_WEB_BIBLIOTECA.deps.json
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\API_WEB_BIBLIOTECA.runtimeconfig.json
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\API_WEB_BIBLIOTECA.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\API_WEB_BIBLIOTECA.pdb
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Azure.Core.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Azure.Identity.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.Data.SqlClient.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.Extensions.Logging.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.Identity.Client.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.OpenApi.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.SqlServer.Server.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\System.Drawing.Common.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\System.Memory.Data.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\System.Runtime.Caching.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\System.Security.Permissions.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\System.Windows.Extensions.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\API_WEB_BIBLIOTECA.csproj.AssemblyReference.cache
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\API_WEB_BIBLIOTECA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\API_WEB_BIBLIOTECA.AssemblyInfoInputs.cache
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\API_WEB_BIBLIOTECA.AssemblyInfo.cs
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\API_WEB_BIBLIOTECA.csproj.CoreCompileInputs.cache
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\API_WEB_BIBLIOTECA.MvcApplicationPartsAssemblyInfo.cs
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\API_WEB_BIBLIOTECA.MvcApplicationPartsAssemblyInfo.cache
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\staticwebassets.build.json
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\staticwebassets.development.json
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\staticwebassets\msbuild.API_WEB_BIBLIOTECA.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\staticwebassets\msbuild.build.API_WEB_BIBLIOTECA.props
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.API_WEB_BIBLIOTECA.props
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.API_WEB_BIBLIOTECA.props
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\staticwebassets.pack.json
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\scopedcss\bundle\API_WEB_BIBLIOTECA.styles.css
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\API_WEB_.0C268D94.Up2Date
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\API_WEB_BIBLIOTECA.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\refint\API_WEB_BIBLIOTECA.dll
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\API_WEB_BIBLIOTECA.pdb
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\API_WEB_BIBLIOTECA.genruntimeconfig.cache
+C:\Programacion con Asp.Net\SESIÓN_21_API_PRACTICA\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\ref\API_WEB_BIBLIOTECA.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\appsettings.Development.json
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\appsettings.json
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\API_WEB_BIBLIOTECA.exe
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\API_WEB_BIBLIOTECA.deps.json
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\API_WEB_BIBLIOTECA.runtimeconfig.json
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\API_WEB_BIBLIOTECA.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\API_WEB_BIBLIOTECA.pdb
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Azure.Core.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Azure.Identity.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.Data.SqlClient.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.Extensions.Logging.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.Identity.Client.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.OpenApi.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.SqlServer.Server.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\System.Drawing.Common.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\System.Memory.Data.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\System.Runtime.Caching.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\System.Security.Permissions.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\System.Windows.Extensions.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\API_WEB_BIBLIOTECA.csproj.AssemblyReference.cache
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\API_WEB_BIBLIOTECA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\API_WEB_BIBLIOTECA.AssemblyInfoInputs.cache
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\API_WEB_BIBLIOTECA.AssemblyInfo.cs
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\API_WEB_BIBLIOTECA.csproj.CoreCompileInputs.cache
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\API_WEB_BIBLIOTECA.MvcApplicationPartsAssemblyInfo.cs
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\API_WEB_BIBLIOTECA.MvcApplicationPartsAssemblyInfo.cache
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\staticwebassets.build.json
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\staticwebassets.development.json
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\staticwebassets\msbuild.API_WEB_BIBLIOTECA.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\staticwebassets\msbuild.build.API_WEB_BIBLIOTECA.props
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.API_WEB_BIBLIOTECA.props
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.API_WEB_BIBLIOTECA.props
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\staticwebassets.pack.json
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\scopedcss\bundle\API_WEB_BIBLIOTECA.styles.css
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\API_WEB_.0C268D94.Up2Date
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\API_WEB_BIBLIOTECA.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\refint\API_WEB_BIBLIOTECA.dll
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\API_WEB_BIBLIOTECA.pdb
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\API_WEB_BIBLIOTECA.genruntimeconfig.cache
+C:\Programacion_con_ASP.NET\SESSION_24_USO_TOKEN\API_WEB_BIBLIOTECA\API_WEB_BIBLIOTECA\obj\Release\net8.0\ref\API_WEB_BIBLIOTECA.dll
